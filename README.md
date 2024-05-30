@@ -10,3 +10,13 @@ or
 ```
 npm init -y
 ```
+### Define the structure.
+    1. Routre (Receptinest)
+    2. Controller (waiter)
+    3. Model (Toking to the DataBase)
+
+### Dependencies
+
+```
+npm install mongoose express jsonwebtoken bcryptjs
+```
