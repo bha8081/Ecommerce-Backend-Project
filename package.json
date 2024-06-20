@@ -2,9 +2,10 @@
   "name": "ecommerproject",
   "version": "1.0.0",
   "description": "This is the E-commers Project",
-  "main": "index.js",
+  "type": "commonjs",
+  "main": "server.js",
   "scripts": {
-    "dev": "node index.js"
+    "dev": "node server.js"
   },
   "author": "Bhavesh",
   "license": "ISC",
@@ -12,6 +13,7 @@
     "bcryptjs": "^2.4.3",
     "express": "^4.19.2",
     "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.4.0"
+    "mongoose": "^8.4.0",
+    "nodemailer": "^6.9.13"
   }
 }

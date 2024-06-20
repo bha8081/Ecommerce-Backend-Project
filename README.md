@@ -13,7 +13,7 @@ npm init -y
 ### Define the structure.
     1. Routre (Receptinest)
     2. Controller (waiter)
-    3. Model (Toking to the DataBase)
+    3. Model (To talk to the DataBase)
 
 ### Dependencies
 
